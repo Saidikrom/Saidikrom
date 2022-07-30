@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saidikrom" alt="saidikrom" /></a> </p>
 
-- 🔭 I’m currently working on [Opticom.dev](https://optikom.uz/)
+- 🔭 I’m currently working on [Opticom](https://optikom.uz/)
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
