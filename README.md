@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Flutter and Photoshop
-- 📫 How to reach me: <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png">(https://cdn-icons-png.flaticon.com/512/2111/2111646.png)
+- 📫 How to reach me: <img src="https://cdn-icons-png.flaticon.com/16/2111/2111646.png">(https://cdn-icons-png.flaticon.com/512/2111/2111646.png)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
