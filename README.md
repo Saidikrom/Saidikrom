@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi I am Saidikrom 👋
 
 - 🔭 I’m currently working on Opticom
 - 🌱 I’m currently learning Flutter
