@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saidikrom</h1>
 <h3 align="center">A passionate Flutter developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saidikrom&label=Profile%20views&color=0e75b6&style=flat" alt="saidikrom" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saidikrom" alt="saidikrom" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter and Dart**
 
 - 📝 I regularly write articles on [https://t.me/flutterchii](https://t.me/flutterchii)
@@ -31,8 +27,3 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/32/5968/5968520.png" alt="photoshop" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidikrom&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidikrom&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"" alt="saidikrom" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saidikrom"" alt="saidikrom" /></p>
