@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://t.me/flutterchii](https://t.me/flutterchii)
 
-- 💬 Ask me about **Flutter and DArt**
+- 💬 Ask me about **Flutter and Dart**
 
 - 📫 How to reach me **https://taplink.cc/saidikrom**
 
